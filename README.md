@@ -5,7 +5,7 @@
 | Repo URL | descriptiopn |
 |---|---|
 | https://dl.fedoraproject.org/pub | CentOS - epel |
-| http://ftp.isu.edu.tw/pub/,http://ftp.ksu.edu.tw/pub/, http://ftp.yzu.edu.tw/Linux/, http://ftp.twaren.net/Linux/, http://centos.cs.nctu.edu.tw/, http://ftp.tc.edu.tw/Linux/, http://ftp.stu.edu.tw/Linux/, http://ftp.twaren.net/Linux/CentOS/ | CentOS - 台灣mirror site |
+| http://ftp.isu.edu.tw/pub/<br >http://ftp.ksu.edu.tw/pub/<br > http://ftp.yzu.edu.tw/Linux/<br > http://ftp.twaren.net/Linux/<br > http://centos.cs.nctu.edu.tw/<br > http://ftp.tc.edu.tw/Linux/<br > http://ftp.stu.edu.tw/Linux/<br > http://ftp.twaren.net/Linux/CentOS/ | CentOS - 台灣mirror site |
 
 ## Big data related
 |
