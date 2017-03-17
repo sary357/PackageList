@@ -14,7 +14,7 @@
 | https://pypi.python.org/<br />https://pypi.fcio.net/ | pip |
 | http://download.oracle.com<br />http://edelivery.oracle.com/ | Java |
 | https://mvnrepository.com<br />| Java library repo |
-| https://pkgs.org/download/R<br />https://centos.pkgs.org/| R and any other language |
+| https://pkgs.org/download/R<br />https://centos.pkgs.org/ | R and any other language |
 
 ## Database
 ### Relational database
