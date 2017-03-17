@@ -21,7 +21,7 @@
 |--|--|
 | http://download.oracle.com | Oracle Express Edition |
 | http://percona.com/download | MySQL (Percona version) |
-| http://yum.postgresql.org<br />http://download.postgresql.org| PostgreSQL |
+| http://yum.postgresql.org<br />http://download.postgresql.org | PostgreSQL |
 ### NoSQL
 | URL | description |
 |--|--|
