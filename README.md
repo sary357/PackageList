@@ -12,7 +12,7 @@
 |--|--|
 | https://www.python.org/ftp/python/ | Python |
 | https://pypi.python.org/<br />https://pypi.fcio.net/ | pip |
-| http://download.oracle.com<br />http://edelivery.oracle.com/| Java |
+| http://download.oracle.com<br />http://edelivery.oracle.com/ | Java |
 | https://mvnrepository.com<br />| Java library repo |
 
 ## Database
@@ -26,7 +26,7 @@
 | URL | description |
 |--|--|
 | http://aerospike.com/download/ | Aerospike |
-| http://packages.couchbase.com/releases/| Couchbase |
+| http://packages.couchbase.com/releases/ | Couchbase |
 | https://fastdl.mongodb.org/ | MongoDB |
 ### Big data
 | URL | description |
