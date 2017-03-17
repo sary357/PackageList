@@ -14,6 +14,7 @@
 | https://pypi.python.org/<br />https://pypi.fcio.net/ | pip |
 | http://download.oracle.com<br />http://edelivery.oracle.com/ | Java |
 | https://mvnrepository.com<br />| Java library repo |
+| https://pkgs.org/download/R<br />https://centos.pkgs.org/| R and any other language |
 
 ## Database
 ### Relational database
@@ -39,4 +40,5 @@
 | http://apache.stu.edu.tw/<br />http://ftp.mirror.tw/pub<br />http://ftp.tc.edu.tw/pub<br />http://ftp.twaren.net/Unix/<br />http://ftp.tc.edu.tw/pub/Apache<br />ftp://ftp.twaren.net/Unix<br />http://www-eu.apache.org/dist<br />| kafka |
 | https://git-scm.com/<br />https://sourceforge.net | git command |
 | https://packages.gitlab.com | gitlab |
+| https://github.com/google/protobuf | google protobuf - github |
 | https://jenkins.io/<br />https://pkg.jenkins.io<br /> | jenkins |
