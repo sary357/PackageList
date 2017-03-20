@@ -4,8 +4,7 @@
 ## OS related
 | Software | Vendor/Organization | URL | Download link | Licensing Type | Licensed? (Commercial package only) | Support Availability | Support Purchased | Version In use |
 |---|---|---|---|---|----|---|---|---|---|
-| https://dl.fedoraproject.org/pub<br />http://download.fedoraproject.org/pub | CentOS - epel |
-| http://ftp.isu.edu.tw/pub/<br />http://ftp.ksu.edu.tw/pub/<br />http://ftp.yzu.edu.tw/Linux/<br />http://ftp.twaren.net/Linux/<br > http://centos.cs.nctu.edu.tw/<br >http://ftp.tc.edu.tw/Linux/<br >http://ftp.stu.edu.tw/Linux/<br >http://ftp.twaren.net/Linux/ | CentOS mirror site in Taiwan |
+|1|2|3|4|5|6|7|8|9|10|
 
 ## Programming language related
 | Repo URL | description |
@@ -15,6 +14,8 @@
 | http://download.oracle.com<br />http://edelivery.oracle.com/ | Java |
 | https://mvnrepository.com<br />| Java library repo |
 | https://pkgs.org/download/R<br />https://centos.pkgs.org/ | R and any other language |
+| https://dl.fedoraproject.org/pub<br />http://download.fedoraproject.org/pub | CentOS - epel |
+| http://ftp.isu.edu.tw/pub/<br />http://ftp.ksu.edu.tw/pub/<br />http://ftp.yzu.edu.tw/Linux/<br />http://ftp.twaren.net/Linux/<br > http://centos.cs.nctu.edu.tw/<br >http://ftp.tc.edu.tw/Linux/<br >http://ftp.stu.edu.tw/Linux/<br >http://ftp.twaren.net/Linux/ | CentOS mirror site in Taiwan |
 
 ## Database
 ### Relational database
