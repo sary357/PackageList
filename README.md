@@ -21,7 +21,7 @@
 |-|-|-|-|-|-|-|-|-|
 | Oracle Express Edition | Oracle | [Oracle](http://download.oracle.com) | [Link](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html) | OTN([More...](http://www.oracle.com/technetwork/licenses/database-11g-express-license-459621.html)) | N/A | N/A | N/A | 11GR2 |
 | MySQL(Percona version) | Percona | [Percona MySQL](http://percona.com/) |[Link](http://percona.com/download) | [Creative Commons Attribution-ShareAlike 2.0 Generic](https://creativecommons.org/licenses/by-sa/2.0/) | N/A | N/A | N/A | N/A |
-| PostgreSQL | The PostgreSQL Global Development Group | [PostgreSQL](https://www.postgresql.org/) | [Link1](http://yum.postgresql.org), [Link2](http://download.postgresql.org) | N/A | N/A |N/A |N/A |
+| PostgreSQL | The PostgreSQL Global Development Group | [PostgreSQL](https://www.postgresql.org/) | [Link1](http://yum.postgresql.org), [Link2](http://download.postgresql.org) |[PostreSQL License](http://www.opensource.org/licenses/postgresql)| N/A | N/A |N/A |N/A |
 
 ### NoSQL
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
