@@ -44,7 +44,7 @@
 | Google protobuf (a kind of file format) | Google Inc |[Google protocol Buffer](https://developers.google.com/protocol-buffers/) | [Link](https://github.com/google/protobuf) | [Link](https://github.com/google/protobuf/blob/master/LICENSE) | N/A | N/A | N/A | N/A |
 | Jenkins (Continuous Integration) | Community | [Jenkins](https://jenkins.io/) |[Link1](https://jenkins.io/), [Link2](https://pkg.jenkins.io)| MIT | N/A | N/A | N/A | N/A |
 | Ansible (Deployment/Configuration tools) | Ansible Inc | [Ansible](https://www.ansible.com/) | (In EPEL repo)| GNU | N/A | N/A | N/A | N/A |
-| Nagios (Monitoring tools) | Nagios Enterprise | [Nagios](https://www.nagios.org/) | [Link](https://assets.nagios.com/downloads/nagioscore/releases/) | [License](https://assets.nagios.com/licenses/nagios_open_software_license.txt) | N/A | N/A | N/A | N/A |
+| Nagios (Monitoring tools) | Nagios Enterprise | [Nagios](https://www.nagios.org/) | [Link](https://assets.nagios.com/downloads/nagioscore/releases/) | [Here](https://assets.nagios.com/licenses/nagios_open_software_license.txt) | N/A | N/A | N/A | N/A |
 
 # Open Source Software inventory management
 
