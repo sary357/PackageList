@@ -5,7 +5,7 @@
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
 | CentOS EPEL repo | Fedora Special Interest Group | [EPEL](https://fedoraproject.org/wiki/EPEL) | [Link1](https://dl.fedoraproject.org/pub) or [Link2](http://download.fedoraproject.org/pub) | Mulitple Licenseing | N/A | N/A | N/A | N/A |
-| CentOS | CentOS Project | [CentOS](https://www.centos.org/) | [CentOS](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
+| CentOS | CentOS Project | [CentOS](https://www.centos.org/) | [Link1](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
 
 ## Programming language related
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
@@ -26,7 +26,7 @@
 ### NoSQL
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| http://aerospike.com/download/ | Aerospike |
+| Aerospike | |http://aerospike.com/download/ | Aerospike |
 | http://packages.couchbase.com/releases/ | Couchbase |
 | https://fastdl.mongodb.org/ | MongoDB |
 ### Big data
