@@ -4,14 +4,14 @@
 ## OS related
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| CentOS EPEL repo | Fedora Special Interest Group | [EPEL](https://fedoraproject.org/wiki/EPEL) | [Link1](https://dl.fedoraproject.org/pub) or [Link2](http://download.fedoraproject.org/pub) | Mulitple Licenseing | N/A | N/A | N/A | N/A |
+| CentOS EPEL repo | Fedora Special Interest Group | [EPEL](https://fedoraproject.org/wiki/EPEL) | [Link1](https://dl.fedoraproject.org/pub), [Link2](http://download.fedoraproject.org/pub) | Mulitple Licenseing | N/A | N/A | N/A | N/A |
 | CentOS | CentOS Project | [CentOS](https://www.centos.org/) | [Link1](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
 
 ## Programming language related
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| Python | Python Software Foundation | [Python](https://www.python.org) | [Link](https://www.python.org/ftp/python/) | PSF([More...](https://docs.python.org/3/license.html)) | N/A | N/A | N/A | N/A |
-| PIP | Python Software Foundation | [PIP](https://pypi.python.org/) | [Link1](https://pypi.python.org/), [Link2](https://pypi.fcio.net/) | MIT([More...](https://en.wikipedia.org/wiki/MIT_License)) | N/A | N/A | N/A | N/A |
+| Python | Python Software Foundation | [Python](https://www.python.org) | [Link](https://www.python.org/ftp/python/) | [PSF](https://docs.python.org/3/license.html) | N/A | N/A | N/A | N/A |
+| PIP | Python Software Foundation | [PIP](https://pypi.python.org/) | [Link1](https://pypi.python.org/), [Link2](https://pypi.fcio.net/) | [MIT](https://en.wikipedia.org/wiki/MIT_License) | N/A | N/A | N/A | N/A |
 | Java | Oracle | [Java](https://www.oracle.com/java/index.html) | [Link1](http://download.oracle.com), [Link2](http://edelivery.oracle.com/) | [BCL: Oracle Binary Code License](http://www.oracle.com/technetwork/java/javase/terms/license/index.html) | N/A | N/A | N/A | N/A |
 | Maven | Apache Foundation | [Maven](https://mvnrepository.com) | [Link](https://mvnrepository.com) | Apache 2.0 | N/A | N/A | N/A | N/A |
 
@@ -19,7 +19,7 @@
 ### Relational database
 | Software | Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| Oracle Express Edition | Oracle | [Oracle](http://download.oracle.com) | [Link](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html) | OTN([More...](http://www.oracle.com/technetwork/licenses/database-11g-express-license-459621.html)) | N/A | N/A | N/A | 11GR2 |
+| Oracle Express Edition | Oracle | [Oracle](http://download.oracle.com) | [Link](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html) | [OTN](http://www.oracle.com/technetwork/licenses/database-11g-express-license-459621.html) | N/A | N/A | N/A | 11GR2 |
 | MySQL(Percona version) | Percona | [Percona MySQL](http://percona.com/) |[Link](http://percona.com/download) | [Creative Commons Attribution-ShareAlike 2.0 Generic](https://creativecommons.org/licenses/by-sa/2.0/) | N/A | N/A | N/A | N/A |
 | PostgreSQL | The PostgreSQL Global Development Group | [PostgreSQL](https://www.postgresql.org/) | [Link1](http://yum.postgresql.org), [Link2](http://download.postgresql.org) |[PostreSQL License](http://www.opensource.org/licenses/postgresql)| N/A | N/A |N/A |N/A |
 
