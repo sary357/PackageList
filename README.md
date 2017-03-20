@@ -4,8 +4,8 @@
 ## OS related
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| CentOS EPEL repo | Fedora Special Interest Group | https://fedoraproject.org/wiki/EPEL | [Here](https://dl.fedoraproject.org/pub) or [Here](http://download.fedoraproject.org/pub) | Mulitple Licseing | N/A | N/A | N/A | N/A |
-| CentOS | http://ftp.isu.edu.tw/pub/<br />http://ftp.ksu.edu.tw/pub/<br />http://ftp.yzu.edu.tw/Linux/<br />http://ftp.twaren.net/Linux/<br > http://centos.cs.nctu.edu.tw/<br >http://ftp.tc.edu.tw/Linux/<br >http://ftp.stu.edu.tw/Linux/<br >http://ftp.twaren.net/Linux/ | CentOS mirror site in Taiwan |
+| CentOS EPEL repo | Fedora Special Interest Group | [EPEL](https://fedoraproject.org/wiki/EPEL) | [Link1](https://dl.fedoraproject.org/pub) or [Link2](http://download.fedoraproject.org/pub) | Mulitple Licenseing | N/A | N/A | N/A | N/A |
+| CentOS | Community | [Link](https://www.centos.org/) | [Link1](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
 
 ## Programming language related
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
