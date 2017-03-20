@@ -46,7 +46,7 @@
 # Open Source Software inventory management
 
 ## Licensing
-Basic Rule: BSD, Apache & MIT Licenses as pre-approved; GPL/LGPL softwares will
+* Basic Rule: BSD, Apache & MIT Licenses as pre-approved; GPL/LGPL softwares will
 require usage review and approval
 
 ## Security
@@ -56,13 +56,13 @@ require usage review and approval
   keys are mandatory.
 
 ## Software package list
-Software: Name of the software package
-Vendor/Organisation: Vendor or Organisation owning/managing the software/project
-URL: Official website
-Download link: Official download location
-Licensing Type: BSD/Apache/MIT/GPL/Commercial/...
-Licensed: Commercial license acquired
-Support Availabiltiy: Availability of paid support & maintenance
-Support Purchsed:
-Versions in use: List of versions used by development & in production.
+* Software: Name of the software package
+* Vendor/Organisation: Vendor or Organisation owning/managing the software/project
+* URL: Official website
+* Download link: Official download location
+* Licensing Type: BSD/Apache/MIT/GPL/Commercial/...
+* Licensed: Commercial license acquired
+* Support Availabiltiy: Availability of paid support & maintenance
+* Support Purchsed: Is commercial support purchased & expiry date
+* Versions in use: List of versions used by development & in production.
 
