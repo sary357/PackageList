@@ -13,7 +13,7 @@
 | Python | Python Software Foundation | [Python](https://www.python.org) | [Link](https://www.python.org/ftp/python/) | PSF([More...](https://docs.python.org/3/license.html)) | N/A | N/A | N/A | N/A |
 | PIP | Python Software Foundation | [PIP](https://pypi.python.org/) | [Link1](https://pypi.python.org/), [Link2](https://pypi.fcio.net/) | MIT([More...](https://en.wikipedia.org/wiki/MIT_License)) | N/A | N/A | N/A | N/A |
 | Java | Oracle | [Java](https://www.oracle.com/java/index.html) | [Link1](http://download.oracle.com), [Link2](http://edelivery.oracle.com/) | [BCL: Oracle Binary Code License](http://www.oracle.com/technetwork/java/javase/terms/license/index.html) | N/A | N/A | N/A | N/A |
-| Maven | Apache Foundation | [Maven](https://mvnrepository.com) | [Link](https://mvnrepository.com) | Apache | N/A | N/A | N/A | N/A |
+| Maven | Apache Foundation | [Maven](https://mvnrepository.com) | [Link](https://mvnrepository.com) | Apache 2.0 | N/A | N/A | N/A | N/A |
 
 ## Database
 ### Relational database
@@ -27,23 +27,24 @@
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
 | Aerospike | Aerospike Inc | [Aerospike](http://www.aerospike.com) | [Link1](http://aerospike.com/download/), [Link2](http://aerospike.com/download) | AGPL(Community version) | N/A | N/A | N/A | N/A |
-| Couchbase | Couchbase Inc | [Couchbase](https://www.couchbase.com/) | [Link](http://packages.couchbase.com/releases/) | Here(https://www.couchbase.com/community) | N/A | N/A | N/A | N/A |
+| Couchbase | Couchbase Inc | [Couchbase](https://www.couchbase.com/) | [Link](http://packages.couchbase.com/releases/) | [Here](https://www.couchbase.com/community) | N/A | N/A | N/A | N/A |
 
 ### Big data
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| https://repository.cloudera.com/ | Hadoop - Cloudera repo |
+| Hadoop - Cloudera | Clodera Inc | [Cloudera](https://www.cloudera.com) | [Link](https://repository.cloudera.com/) | Apache 2.0 | N/A | N/A | N/A | N/A |
+| ElasticSearch | ElasticSearch | [ElasticSearch](https://www.elastic.co/) | [Link](https://www.elastic.co/downloads) | Apache 2.0| N/A| N/A | N/A | N/A|
 
 ## misc
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| http://apache.stu.edu.tw/<br />http://ftp.mirror.tw/pub<br />http://ftp.tc.edu.tw/pub<br />http://ftp.twaren.net/Unix/<br />http://ftp.tc.edu.tw/pub/Apache<br />ftp://ftp.twaren.net/Unix<br />http://www-eu.apache.org/dist<br />| kafka |
-| https://git-scm.com/<br />https://sourceforge.net | git command |
-| https://packages.gitlab.com | gitlab |
-| https://github.com/google/protobuf | google protobuf - github |
-| https://jenkins.io/<br />https://pkg.jenkins.io<br /> | jenkins |
-| Deployment tool - Ansible |
-| Monitoring tools - Nagios |
+| kafka | Apache Foundation | [Kafka](https://kafka.apache.org/) | [Link1](http://apache.stu.edu.tw/), [Link2](http://ftp.mirror.tw/pub), [Link3](http://ftp.tc.edu.tw/pub), [Link4](http://ftp.twaren.net/Unix/), [Link5](http://ftp.tc.edu.tw/pub/Apache), [Link6](ftp://ftp.twaren.net/Unix), [Link7](http://www-eu.apache.org/dist) |Apache 2.0 | N/A |N/A | N/A| N/A |
+| git command line client tool | [git](https://git-scm.com) | [Link1](https://git-scm.com/), [Link2](https://sourceforge.net) | GNU 2.0 | N/A | N/A | N/A | N/A |
+| git server - gitlab | [gitlab](https://about.gitlab.com) | [Link](https://packages.gitlab.com) | [Here](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/LICENSE)(Community version) | N/A | N/A | N/A | N/A |
+| Google protobuf| Google Inc |[Google protocol Buffer](https://developers.google.com/protocol-buffers/) | [Link](https://github.com/google/protobuf) | [Link]https://github.com/google/protobuf/blob/master/LICENSE | N/A | N/A | N/A | N/A |
+| Jenkins | Community | [Jenkins](https://jenkins.io/) |[Link1](https://jenkins.io/), [Link2](https://pkg.jenkins.io)| MIT | N/A | N/A | N/A | N/A |
+| Ansible | Deployment tool - Ansible |
+| Nagios | Monitoring tools - Nagios |
 
 # Open Source Software inventory management
 
