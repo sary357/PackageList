@@ -5,16 +5,15 @@
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
 | CentOS EPEL repo | Fedora Special Interest Group | [EPEL](https://fedoraproject.org/wiki/EPEL) | [Link1](https://dl.fedoraproject.org/pub) or [Link2](http://download.fedoraproject.org/pub) | Mulitple Licenseing | N/A | N/A | N/A | N/A |
-| CentOS | Community | [Link](https://www.centos.org/) | [CentOS](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
+| CentOS | CentOS Project | [Link](https://www.centos.org/) | [CentOS](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
 
 ## Programming language related
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
 | Python | Python Software Foundation | [Python](https://www.python.org) | [Link](https://www.python.org/ftp/python/) | PSF([More...](https://docs.python.org/3/license.html)) | N/A | N/A | N/A | N/A |
-| PIP | [PIP](https://pypi.python.org/) | [Link1](https://pypi.python.org/), [Link2](https://pypi.fcio.net/) | MIT([More...](https://en.wikipedia.org/wiki/MIT_License)) | | N/A | N/A | N/A | N/A |
-| http://download.oracle.com<br />http://edelivery.oracle.com/ | Java |
-| https://mvnrepository.com<br />| Java library repo |
-| https://pkgs.org/download/R<br />https://centos.pkgs.org/ | R and any other language |
+| PIP | Python Software Foundation | [PIP](https://pypi.python.org/) | [Link1](https://pypi.python.org/), [Link2](https://pypi.fcio.net/) | MIT([More...](https://en.wikipedia.org/wiki/MIT_License)) | N/A | N/A | N/A | N/A |
+| Java | Oracle | [Java](https://www.oracle.com/java/index.html) | [Link1](http://download.oracle.com), [Link2](http://edelivery.oracle.com/) | [BCL: Oracle Binary Code License](http://www.oracle.com/technetwork/java/javase/terms/license/index.html) | N/A | N/A | N/A | N/A |
+| Maven repo |Apache Foundation | [Maven](https://mvnrepository.com) | [Link]|(https://mvnrepository.com) | Apache | N/A | N/A | N/A | N/A |
 
 ## Database
 ### Relational database
