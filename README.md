@@ -5,12 +5,12 @@
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
 | CentOS EPEL repo | Fedora Special Interest Group | [EPEL](https://fedoraproject.org/wiki/EPEL) | [Link1](https://dl.fedoraproject.org/pub) or [Link2](http://download.fedoraproject.org/pub) | Mulitple Licenseing | N/A | N/A | N/A | N/A |
-| CentOS | Community | [Link](https://www.centos.org/) | [Link1](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
+| CentOS | Community | [Link](https://www.centos.org/) | [CentOS](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
 
 ## Programming language related
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| https://www.python.org/ftp/python/ | Python |
+| Python | Python Software Foundation | [Python](https://www.python.org) | [Link](https://www.python.org/ftp/python/) | PSF([More...](https://docs.python.org/3/license.html)) | N/A | N/A | N/A | N/A |
 | https://pypi.python.org/<br />https://pypi.fcio.net/ | pip |
 | http://download.oracle.com<br />http://edelivery.oracle.com/ | Java |
 | https://mvnrepository.com<br />| Java library repo |
