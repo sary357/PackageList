@@ -11,7 +11,7 @@
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
 | Python | Python Software Foundation | [Python](https://www.python.org) | [Link](https://www.python.org/ftp/python/) | PSF([More...](https://docs.python.org/3/license.html)) | N/A | N/A | N/A | N/A |
-| https://pypi.python.org/<br />https://pypi.fcio.net/ | pip |
+| PIP | [PIP](https://pypi.python.org/) | [Link1](https://pypi.python.org/), [Link2](https://pypi.fcio.net/) | MIT([More...](https://en.wikipedia.org/wiki/MIT_License)) | | N/A | N/A | N/A | N/A |
 | http://download.oracle.com<br />http://edelivery.oracle.com/ | Java |
 | https://mvnrepository.com<br />| Java library repo |
 | https://pkgs.org/download/R<br />https://centos.pkgs.org/ | R and any other language |
