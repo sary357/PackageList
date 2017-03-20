@@ -2,13 +2,12 @@
 - Try to list down all necessary packages here.
 
 ## OS related
-| Software | Vendor/Organization | URL | Download link | Licensing Type | Licensed? (Commercial package only) | Support Availability | Support Purchased | Version In use |
-|---|---|---|---|---|----|---|---|---|---|
-|1|2|3|4|5|6|7|8|9|10|
+| Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
+|-|-|-|-|-|-|-|-|-|
 
 ## Programming language related
-| Repo URL | description |
-|--|--|
+| Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
+|-|-|-|-|-|-|-|-|-|
 | https://www.python.org/ftp/python/ | Python |
 | https://pypi.python.org/<br />https://pypi.fcio.net/ | pip |
 | http://download.oracle.com<br />http://edelivery.oracle.com/ | Java |
@@ -19,25 +18,26 @@
 
 ## Database
 ### Relational database
-| URL | description |
-|--|--|
+| Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
+|-|-|-|-|-|-|-|-|-|
 | http://download.oracle.com | Oracle Express Edition |
 | http://percona.com/download | MySQL (Percona version) |
 | http://yum.postgresql.org<br />http://download.postgresql.org | PostgreSQL |
+
 ### NoSQL
-| URL | description |
-|--|--|
+| Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
+|-|-|-|-|-|-|-|-|-|
 | http://aerospike.com/download/ | Aerospike |
 | http://packages.couchbase.com/releases/ | Couchbase |
 | https://fastdl.mongodb.org/ | MongoDB |
 ### Big data
-| URL | description |
-|--|--|
+| Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
+|-|-|-|-|-|-|-|-|-|
 | https://repository.cloudera.com/ | Hadoop - Cloudera repo |
 
 ## misc
-| URL | description |
-|--|--|
+| Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
+|-|-|-|-|-|-|-|-|-|
 | http://apache.stu.edu.tw/<br />http://ftp.mirror.tw/pub<br />http://ftp.tc.edu.tw/pub<br />http://ftp.twaren.net/Unix/<br />http://ftp.tc.edu.tw/pub/Apache<br />ftp://ftp.twaren.net/Unix<br />http://www-eu.apache.org/dist<br />| kafka |
 | https://git-scm.com/<br />https://sourceforge.net | git command |
 | https://packages.gitlab.com | gitlab |
