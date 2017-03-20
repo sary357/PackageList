@@ -2,8 +2,8 @@
 - Try to list down all necessary packages here.
 
 ## OS related
-| Repo URL | descriptiopn |
-|---|---|
+| Software | Vendor/Organization | URL | Download link | Licensing Type | Licensed? (Commercial package only) | Support Availability | Support Purchased | Version In use |
+|---|---|-|-|-|-|-|-|-|-|
 | https://dl.fedoraproject.org/pub<br />http://download.fedoraproject.org/pub | CentOS - epel |
 | http://ftp.isu.edu.tw/pub/<br />http://ftp.ksu.edu.tw/pub/<br />http://ftp.yzu.edu.tw/Linux/<br />http://ftp.twaren.net/Linux/<br > http://centos.cs.nctu.edu.tw/<br >http://ftp.tc.edu.tw/Linux/<br >http://ftp.stu.edu.tw/Linux/<br >http://ftp.twaren.net/Linux/ | CentOS mirror site in Taiwan |
 
@@ -42,6 +42,8 @@
 | https://packages.gitlab.com | gitlab |
 | https://github.com/google/protobuf | google protobuf - github |
 | https://jenkins.io/<br />https://pkg.jenkins.io<br /> | jenkins |
+| Deployment tool - Ansible |
+| Monitoring tools - Nagios |
 
 # Open Source Software inventory management
 
