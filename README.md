@@ -38,13 +38,13 @@
 ## misc
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| kafka | Apache Foundation | [Kafka](https://kafka.apache.org/) | [Link1](http://apache.stu.edu.tw/), [Link2](http://ftp.mirror.tw/pub), [Link3](http://ftp.tc.edu.tw/pub), [Link4](http://ftp.twaren.net/Unix/), [Link5](http://ftp.tc.edu.tw/pub/Apache), [Link6](ftp://ftp.twaren.net/Unix), [Link7](http://www-eu.apache.org/dist) |Apache 2.0 | N/A |N/A | N/A| N/A |
+| kafka (Message queue) | Apache Foundation | [Kafka](https://kafka.apache.org/) | [Link1](http://apache.stu.edu.tw/), [Link2](http://ftp.mirror.tw/pub), [Link3](http://ftp.tc.edu.tw/pub), [Link4](http://ftp.twaren.net/Unix/), [Link5](http://ftp.tc.edu.tw/pub/Apache), [Link6](http://www-eu.apache.org/dist) |Apache 2.0 | N/A |N/A | N/A| N/A |
 | git command line client tool | [git](https://git-scm.com) | [Link1](https://git-scm.com/), [Link2](https://sourceforge.net) | GNU 2.0 | N/A | N/A | N/A | N/A |
 | git server - gitlab | [gitlab](https://about.gitlab.com) | [Link](https://packages.gitlab.com) | [Here](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/LICENSE)(Community version) | N/A | N/A | N/A | N/A |
-| Google protobuf| Google Inc |[Google protocol Buffer](https://developers.google.com/protocol-buffers/) | [Link](https://github.com/google/protobuf) | [Link]https://github.com/google/protobuf/blob/master/LICENSE | N/A | N/A | N/A | N/A |
-| Jenkins | Community | [Jenkins](https://jenkins.io/) |[Link1](https://jenkins.io/), [Link2](https://pkg.jenkins.io)| MIT | N/A | N/A | N/A | N/A |
-| Ansible | Deployment tool - Ansible |
-| Nagios | Monitoring tools - Nagios |
+| Google protobuf (a kind of file format) | Google Inc |[Google protocol Buffer](https://developers.google.com/protocol-buffers/) | [Link](https://github.com/google/protobuf) | [Link]https://github.com/google/protobuf/blob/master/LICENSE | N/A | N/A | N/A | N/A |
+| Jenkins (Continuous Integration) | Community | [Jenkins](https://jenkins.io/) |[Link1](https://jenkins.io/), [Link2](https://pkg.jenkins.io)| MIT | N/A | N/A | N/A | N/A |
+| Ansible (Deployment/Configuration tools) | Ansible Inc | [Ansible](https://www.ansible.com/) | (In EPEL repo)| GNU | N/A | N/A | N/A | N/A |
+| Nagios (Monitoring tools) | Nagios Enterprise | [Nagios](https://www.nagios.org/) | [Link](https://assets.nagios.com/downloads/nagioscore/releases/) | N/A | N/A | N/A | N/A |
 
 # Open Source Software inventory management
 
