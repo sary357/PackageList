@@ -26,9 +26,9 @@
 ### NoSQL
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| Aerospike | |http://aerospike.com/download/ | Aerospike |
-| http://packages.couchbase.com/releases/ | Couchbase |
-| https://fastdl.mongodb.org/ | MongoDB |
+| Aerospike | Aerospike Inc | [Aerospike](http://www.aerospike.com) | [Link1](http://aerospike.com/download/), [Link2](http://aerospike.com/download) | AGPL(Community version) | N/A | N/A | N/A | N/A |
+| Couchbase | Couchbase Inc | [Couchbase](https://www.couchbase.com/) | [Link](http://packages.couchbase.com/releases/) | Here(https://www.couchbase.com/community) | N/A | N/A | N/A | N/A |
+
 ### Big data
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
