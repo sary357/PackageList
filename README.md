@@ -13,7 +13,7 @@
 | Python | Python Software Foundation | [Python](https://www.python.org) | [Link](https://www.python.org/ftp/python/) | PSF([More...](https://docs.python.org/3/license.html)) | N/A | N/A | N/A | N/A |
 | PIP | Python Software Foundation | [PIP](https://pypi.python.org/) | [Link1](https://pypi.python.org/), [Link2](https://pypi.fcio.net/) | MIT([More...](https://en.wikipedia.org/wiki/MIT_License)) | N/A | N/A | N/A | N/A |
 | Java | Oracle | [Java](https://www.oracle.com/java/index.html) | [Link1](http://download.oracle.com), [Link2](http://edelivery.oracle.com/) | [BCL: Oracle Binary Code License](http://www.oracle.com/technetwork/java/javase/terms/license/index.html) | N/A | N/A | N/A | N/A |
-| Maven repo |Apache Foundation | [Maven](https://mvnrepository.com) | [Link]|(https://mvnrepository.com) | Apache | N/A | N/A | N/A | N/A |
+| Maven | Apache Foundation | [Maven](https://mvnrepository.com) | [Link](https://mvnrepository.com) | Apache | N/A | N/A | N/A | N/A |
 
 ## Database
 ### Relational database
