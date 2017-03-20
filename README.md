@@ -5,7 +5,7 @@
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
 | CentOS EPEL repo | Fedora Special Interest Group | [EPEL](https://fedoraproject.org/wiki/EPEL) | [Link1](https://dl.fedoraproject.org/pub) or [Link2](http://download.fedoraproject.org/pub) | Mulitple Licenseing | N/A | N/A | N/A | N/A |
-| CentOS | CentOS Project | [Link](https://www.centos.org/) | [CentOS](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
+| CentOS | CentOS Project | [CentOS](https://www.centos.org/) | [CentOS](http://ftp.isu.edu.tw/pub/), [Link2](http://ftp.ksu.edu.tw/pub/), [Link3](http://ftp.yzu.edu.tw/Linux/), [Link4](http://ftp.twaren.net/Linux/), [Link5](http://centos.cs.nctu.edu.tw/), [Link6](http://ftp.tc.edu.tw/Linux/), [Link7](http://ftp.stu.edu.tw/Linux/), [Link8](http://ftp.twaren.net/Linux/) | Mulitple licensing | N/A | N/A | N/A | N/A |
 
 ## Programming language related
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
@@ -17,11 +17,11 @@
 
 ## Database
 ### Relational database
-| Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
+| Software | Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| http://download.oracle.com | Oracle Express Edition |
-| http://percona.com/download | MySQL (Percona version) |
-| http://yum.postgresql.org<br />http://download.postgresql.org | PostgreSQL |
+| Oracle Express Edition | Oracle | [Oracle](http://download.oracle.com) | [Link](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html) | OTN([More...](http://www.oracle.com/technetwork/licenses/database-11g-express-license-459621.html)) | N/A | N/A | N/A | 11GR2 |
+| MySQL(Percona version) | Percona | [Percona MySQL](http://percona.com/) |[Link](http://percona.com/download) | [Creative Commons Attribution-ShareAlike 2.0 Generic](https://creativecommons.org/licenses/by-sa/2.0/) | N/A | N/A | N/A | N/A |
+| PostgreSQL | The PostgreSQL Global Development Group | [PostgreSQL](https://www.postgresql.org/) | [Link1](http://yum.postgresql.org), [Link2](http://download.postgresql.org) | N/A | N/A |N/A |N/A |
 
 ### NoSQL
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
