@@ -20,7 +20,7 @@
 
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
-| RSutdio | RStudio Inc. | [RStudio](https://www.rstudio.com) | [Link](https://www.rstudio.com/products/rstudio/download/) |AGPL3 (Community version) | N/A | N/A | N/A | N/A |
+| RSutdio | RStudio Inc. | [RStudio](https://www.rstudio.com) | [Link](https://www.rstudio.com/products/rstudio/download/) |AGPL3 (Community version) [Link](https://www.rstudio.com/about/eula/) | N/A | N/A | N/A | N/A |
 | Anacoda | Continuum Analytics | [Anacoda](https://www.continuum.io/) | [Link](https://www.continuum.io/downloads) | [3-clause BSD License](https://docs.continuum.io/anaconda/eula) | N/A | N/A | N/A | N/A |
 
 ## Database
