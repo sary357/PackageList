@@ -22,6 +22,7 @@
 |-|-|-|-|-|-|-|-|-|
 | RSutdio | RStudio Inc. | [RStudio](https://www.rstudio.com) | [Link](https://www.rstudio.com/products/rstudio/download/) |AGPL3 (Community version) [Link](https://www.rstudio.com/about/eula/) | N/A | N/A | N/A | N/A |
 | Anacoda | Continuum Analytics | [Anacoda](https://www.continuum.io/) | [Link](https://www.continuum.io/downloads) | [3-clause BSD License](https://docs.continuum.io/anaconda/eula) | N/A | N/A | N/A | N/A |
+| Sublime Text 3 | Sublime HQ Pty Ltd | [Sublime Text 3](https://www.sublimetext.com/) | [Link](https://www.sublimetext.com/3) | [FAQ](https://www.sublimetext.com/sales_faq) | N/A | N/A | N/A | N/A |
 
 ## Database
 ### Relational database
