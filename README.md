@@ -14,6 +14,14 @@
 | PIP | Python Software Foundation | [PIP](https://pypi.python.org/) | [Link1](https://pypi.python.org/), [Link2](https://pypi.fcio.net/) | [MIT](https://en.wikipedia.org/wiki/MIT_License) | N/A | N/A | N/A | N/A |
 | Java | Oracle | [Java](https://www.oracle.com/java/index.html) | [Link1](http://download.oracle.com), [Link2](http://edelivery.oracle.com/) | [BCL: Oracle Binary Code License](http://www.oracle.com/technetwork/java/javase/terms/license/index.html) | N/A | N/A | N/A | N/A |
 | Maven | Apache Foundation | [Maven](https://mvnrepository.com) | [Link](https://mvnrepository.com) | Apache 2.0 | N/A | N/A | N/A | N/A |
+| R | The R Foundation | [R](https://www.r-project.org/) | [Link1](https://ftp.yzu.edu.tw/CRAN/), [Link2](http://ftp.yzu.edu.tw/CRAN/), [Link3](http://cran.csie.ntu.edu.tw/) | [GNU, BSD2, BSD3, GPL2, GPL3, MIT, ..., etc](https://www.r-project.org/Licenses/) | N/A | N/A | N/A | N/A |
+
+## IDE
+
+| Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
+|-|-|-|-|-|-|-|-|-|
+| RSutdio | RStudio Inc. | [RStudio](https://www.rstudio.com) | [Link](https://www.rstudio.com/products/rstudio/download/) |AGPL3 (Community version) | N/A | N/A | N/A | N/A |
+| Anacoda | Continuum Analytics | [Anacoda](https://www.continuum.io/) | [Link](https://www.continuum.io/downloads) | [3-clause BSD License](https://docs.continuum.io/anaconda/eula) | N/A | N/A | N/A | N/A |
 
 ## Database
 ### Relational database
@@ -33,6 +41,7 @@
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
 | Hadoop - Cloudera | Clodera Inc | [Cloudera](https://www.cloudera.com) | [Link](https://repository.cloudera.com/) | Apache 2.0 | N/A | N/A | N/A | N/A |
+| Spark - Cloudera | Clodera Inc | [Cloudera](https://www.cloudera.com) | [Link](https://repository.cloudera.com/) | Apache 2.0 | N/A | N/A | N/A | N/A |
 | ElasticSearch | ElasticSearch | [ElasticSearch](https://www.elastic.co/) | [Link](https://www.elastic.co/downloads) | Apache 2.0| N/A| N/A | N/A | N/A|
 
 ## misc
