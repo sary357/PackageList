@@ -45,6 +45,12 @@
 | Spark - Cloudera | Clodera Inc | [Cloudera](https://www.cloudera.com) | [Link](https://repository.cloudera.com/) | Apache 2.0 | N/A | N/A | N/A | N/A |
 | ElasticSearch | ElasticSearch | [ElasticSearch](https://www.elastic.co/) | [Link](https://www.elastic.co/downloads) | Apache 2.0| N/A| N/A | N/A | N/A|
 
+## Virtual Env
+| Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
+|-|-|-|-|-|-|-|-|-|
+| VirtualBox | Oracle | [VirtualBox](https://www.virtualbox.org/) | [Link](https://www.virtualbox.org/wiki/Downloads)| PUEL(https://www.virtualbox.org/wiki/VirtualBox_PUEL) | N/A | N/A | N/A | N/A |
+| Docker | Docker Inc | [Docker](https://www.docker.com/) | [Page](https://www.docker.com/)| Apache 2.0(Open Source version) | N/A | N/A | N/A | N/A |
+
 ## misc
 | Software |Vendor/Organization | URL | Download link | Licensing Type |Licensed(Commercial package only) |Support Availability | Support Purchased | Version In use |
 |-|-|-|-|-|-|-|-|-|
